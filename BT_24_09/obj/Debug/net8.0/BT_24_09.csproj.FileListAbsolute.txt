@@ -1,0 +1,14 @@
+D:\Downloads\BT_24_09\BT_24_09\bin\Debug\net8.0\BT_24_09.exe
+D:\Downloads\BT_24_09\BT_24_09\bin\Debug\net8.0\BT_24_09.deps.json
+D:\Downloads\BT_24_09\BT_24_09\bin\Debug\net8.0\BT_24_09.runtimeconfig.json
+D:\Downloads\BT_24_09\BT_24_09\bin\Debug\net8.0\BT_24_09.dll
+D:\Downloads\BT_24_09\BT_24_09\bin\Debug\net8.0\BT_24_09.pdb
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\BT_24_09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\BT_24_09.AssemblyInfoInputs.cache
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\BT_24_09.AssemblyInfo.cs
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\BT_24_09.csproj.CoreCompileInputs.cache
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\BT_24_09.dll
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\refint\BT_24_09.dll
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\BT_24_09.pdb
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\BT_24_09.genruntimeconfig.cache
+D:\Downloads\BT_24_09\BT_24_09\obj\Debug\net8.0\ref\BT_24_09.dll
